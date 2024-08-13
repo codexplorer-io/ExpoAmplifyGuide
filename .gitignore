@@ -1,0 +1,14 @@
+.idea
+.DS_Store
+Thumbs.db
+node_modules
+yarn-error.log
+.expo/*
+npm-debug.*
+*.orig.*
+web-build/
+web-report/
+coverage/
+bin/
+dist/
+e2e-artifacts/
